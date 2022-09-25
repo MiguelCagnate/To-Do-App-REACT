@@ -1,11 +1,12 @@
-import React from 'react'
+import React from "react";
+import { TodoItem } from "./TodoItem";
 
-export function TodoList({todos}) {
+export function TodoList({ todos }) {
   return (
     <ul>
       {todos.map((todo) => (
-        <li>Tarea</li>
+        <TodoItem todo={todo} />
       ))}
     </ul>
-  )
+  );
 }
