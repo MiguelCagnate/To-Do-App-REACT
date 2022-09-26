@@ -1,19 +1,41 @@
+h1{
+    
+    padding: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 2px;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px salmon;
+}
+
 body{
     background-color: rgb(7, 204, 204);
 }
-
 
 div{
     text-align:center; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
     color: white;
-    border-radius: 9px;
-    
-    
+    border-radius: 9px;    
+    padding: 3px;
 }
-#button{
+button{
+    border-radius: 5px;
+    color: rgb(78, 74, 74);
+    border-color: azure;
+    background-color: aliceblue;
+    padding: 3px;
+    margin: 2px;
+}
+input{
+    color: aliceblue;
     border-radius: 9px;
-    border-style: groove;
-    color: gray;
+    background-color: azure;
+    text-align: center;
+    padding: 1px;
+    margin: 2px;
 }
