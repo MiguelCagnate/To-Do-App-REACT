@@ -39,7 +39,7 @@ export function App() {
   };
 
   const handleClearAll = () => {
-    const newTodos = todos.filter((todo) => todo.completed);
+    const newTodos = todos.filter((todo) => !todo.completed);
     setTodos(newTodos);
   };
   return (
