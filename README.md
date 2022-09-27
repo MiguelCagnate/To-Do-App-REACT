@@ -1,4 +1,4 @@
- <h1>*React App / To-do List📋</h1>
+ <h1>React App / To-do List📋</h1>
 <br>
  <h2>React App project where you can: </h2>
  <br>
@@ -11,4 +11,5 @@
  </h3>
 
  ## Enjoy😉!
-![todo_list_app](https://user-images.githubusercontent.com/94227693/192469705-2e82ab31-f286-4737-a108-89422f5b5590.png)
+
+![todo_list_app](https://user-images.githubusercontent.com/94227693/192474078-2da0cc3d-0b8d-4bc0-a48f-85d8a36be2da.png)
