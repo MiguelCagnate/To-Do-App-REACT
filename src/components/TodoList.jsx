@@ -3,10 +3,11 @@ import { TodoItem } from "./TodoItem";
 
 export function TodoList({ todos, toggleTodo }) {
   return (
-    <ul>
+    <ul><h3>
       {todos.map((todo) => (
         <TodoItem key={todo.id} todo={todo} toggleTodo={toggleTodo} />
       ))}
+    </h3>
     </ul>
   );
 }

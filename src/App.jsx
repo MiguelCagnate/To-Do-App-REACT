@@ -49,8 +49,8 @@ export function App() {
       <button onClick={addNewTodo}>➕</button>
       <button onClick={handleClearAll}>🗑</button>
       <div>
-        You have {todos.filter((todo) => !todo.completed).length} task left to
-        finish
+        <h2>You have {todos.filter((todo) => !todo.completed).length} task left to
+        finish</h2>
       </div>
     </Fragment>
   );

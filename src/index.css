@@ -1,11 +1,12 @@
 h1{
-    
-    padding: 11px;
+    font-size: 69px;
+    padding: 13px;
+    margin: 69px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style: italic;
     border-style: solid;
     border-radius: 15px;
-    border-width: 2px;
+    border-width: 5px;
     color: white;
     text-align: center;
     text-shadow: 2px 2px salmon;
@@ -19,19 +20,19 @@ div{
     text-align:center; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
-    color: white;
+    color: rgb(53, 48, 48);
     border-radius: 9px;    
-    padding: 3px;
+    padding: 25px;
 }
 button{
-    border-radius: 5px;
-    color: rgb(78, 74, 74);
-    border-color: azure;
+    border-radius: 5px;  
+    color: gray;  
     background-color: aliceblue;
     padding: 3px;
     margin: 2px;
 }
 input{
+    font-size: 25px;
     color: rgb(64, 66, 68);
     border-radius: 9px;
     background-color: azure;
