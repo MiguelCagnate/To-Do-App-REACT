@@ -45,9 +45,9 @@ export function App() {
   return (
     <Fragment>
       <TodoList todos={todos} toggleTodo={toggleTodo} />
-      <input ref={todoTaskRef} type="text" placeholder="New Task📒" />
+      <input ref={todoTaskRef} type="text" placeholder="New Task📋" />
       <button onClick={addNewTodo}>➕</button>
-      <button onClick={handleClearAll}>🗑</button>
+      <button onClick={handleClearAll}>❌ </button>
       <div>
         <h2>You have {todos.filter((todo) => !todo.completed).length} task left to
         finish</h2>

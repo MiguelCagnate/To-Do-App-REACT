@@ -30,6 +30,8 @@ button{
     border-radius: 5px;  
     padding: 3px;
     margin: 2px;
+    border: none;
+    background-color: white;
 }
 input{
     font-size: 25px;   
