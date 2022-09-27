@@ -6,7 +6,7 @@ const KEY = "todoApp.todos";
 
 export function App() {
   const [todos, setTodos] = useState([
-    { id: 1, task: "Tarea 1", completed: false },
+    { id: 1, task: "Task 1", completed: false },
   ]);
   const todoTaskRef = useRef();
 
