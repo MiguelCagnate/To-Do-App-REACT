@@ -1,6 +1,6 @@
  <h1>*React App / To-do List📋</h1>
 <br>
- <h2>Basic App React project where you can: </h2>
+ <h2>React App project where you can: </h2>
  <br>
  <h3><ul>
  <li>Type all your daily activities</li>
