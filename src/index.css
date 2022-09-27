@@ -14,9 +14,11 @@ h1{
 
 body{
     background-color: rgb(7, 204, 204);
+    
 }
 
 div{
+    
     text-align:center; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: large;
@@ -26,16 +28,12 @@ div{
 }
 button{
     border-radius: 5px;  
-    color: gray;  
-    background-color: aliceblue;
     padding: 3px;
     margin: 2px;
 }
 input{
-    font-size: 25px;
-    color: rgb(64, 66, 68);
-    border-radius: 9px;
-    background-color: azure;
+    font-size: 25px;   
+    border-radius: 9px;  
     text-align: center;
     padding: 1px;
     margin: 2px;

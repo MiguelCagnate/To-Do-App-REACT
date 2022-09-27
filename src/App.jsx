@@ -45,7 +45,7 @@ export function App() {
   return (
     <Fragment>
       <TodoList todos={todos} toggleTodo={toggleTodo} />
-      <input ref={todoTaskRef} type="text" placeholder="Nueva Tarea" />
+      <input ref={todoTaskRef} type="text" placeholder="New Task📒" />
       <button onClick={addNewTodo}>➕</button>
       <button onClick={handleClearAll}>🗑</button>
       <div>
