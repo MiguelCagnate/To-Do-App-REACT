@@ -1,4 +1,4 @@
- <h1>React App / To-do List📋</h1>
+ <h1>React App ⚛ / To-do List📋</h1>
 <br>
  <h2>React App project where you can: </h2>
  <br>
